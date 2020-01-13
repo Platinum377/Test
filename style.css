@@ -1,3 +1,4 @@
+/* Habillage Page */
 body {
     background-color: #F7F8E0;
     color: navy;
@@ -6,9 +7,15 @@ body {
     background-position: top right;
 }
 
+/* Habillage Titre de niveau 1 */
 h1 {
     font-size: 200%;
     font-family: Verdana, Arial, Helvetica, Geneva;
     color: red;
     text-align: center;
 }
+
+/* Habillage Lien HyperTexte */
+a:link {color: green; text-decoration: underline;}
+a:visited {color: grey; text-decoration: underline;}
+a:hover {color: red; text-decoration: none;}
