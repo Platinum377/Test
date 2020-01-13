@@ -1,0 +1,14 @@
+body {
+    background-color: #F7F8E0;
+    color: navy;
+    background-image:url(images/logo.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+h1 {
+    font-size: 200%;
+    font-family: Verdana, Arial, Helvetica, Geneva;
+    color: red;
+    text-align: center;
+}
